@@ -1,0 +1,59 @@
+magic
+tech sky130A
+timestamp 1734736724
+<< locali >>
+rect -56 -1652 40 437
+rect 78 -602 270 -566
+rect 100 -606 270 -602
+rect 584 -616 616 -534
+rect 520 -1652 616 -1202
+rect -56 -1655 616 -1652
+rect -56 -1745 139 -1655
+rect 229 -1745 616 -1655
+rect -56 -1748 616 -1745
+<< viali >>
+rect 139 -1745 229 -1655
+<< metal1 >>
+rect 72 -1516 104 316
+rect 136 -48 232 48
+rect 328 -270 424 348
+rect 136 -448 232 -352
+rect 328 -366 598 -270
+rect 136 -848 232 -752
+rect 502 -806 598 -366
+rect 328 -902 598 -806
+rect 136 -1248 232 -1152
+rect 328 -1498 424 -902
+rect 136 -1652 232 -1552
+rect 133 -1655 235 -1652
+rect 133 -1745 139 -1655
+rect 229 -1745 235 -1655
+rect 133 -1748 235 -1745
+use JNWATR_NCH_4C5F0  JNWATR_NCH_4C5F0_0 ~/pro/aicex/ip/jnw_ex_sky130a/design/JNW_ATR_SKY130A
+timestamp 1734044400
+transform 1 0 -8 0 1 -1586
+box -92 -64 668 464
+use JNWATR_NCH_4C5F0  JNWATR_NCH_4C5F0_1
+timestamp 1734044400
+transform 1 0 -8 0 1 14
+box -92 -64 668 464
+use JNWATR_NCH_4C5F0  JNWATR_NCH_4C5F0_2
+timestamp 1734044400
+transform 1 0 -8 0 1 -386
+box -92 -64 668 464
+use JNWATR_NCH_4C5F0  JNWATR_NCH_4C5F0_3
+timestamp 1734044400
+transform 1 0 -8 0 1 -786
+box -92 -64 668 464
+use JNWATR_NCH_4C5F0  JNWATR_NCH_4C5F0_4
+timestamp 1734044400
+transform 1 0 -8 0 1 -1186
+box -92 -64 668 464
+<< labels >>
+flabel locali -56 338 40 434 0 FreeSans 400 0 0 0 VSS
+port 1 nsew
+flabel metal1 328 -298 424 -202 0 FreeSans 400 0 0 0 IBNS_20U
+port 5 nsew
+flabel metal1 72 -503 104 -471 0 FreeSans 200 0 0 0 IBPS_5U
+port 9 nsew
+<< end >>
