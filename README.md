@@ -6,21 +6,22 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-jonathse
+Yotasage
 
 # Why
 
 <explain why you made this module>
+This module has been made to test out the tutorial written at https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip.
 
 # How
 
 <explain short how you made this module>
-
+This module has been made by following the tutorial written at https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip.
 
 # What
 
-| What            |        Cell/Name |
-| :-              |  :-:       |
+| What            | Cell/Name                        |
+| :-              |  :-:                             |
 | Schematic       | design/JNW_EX_SKY130A/JNW_EX.sch |
 | Layout          | design/JNW_EX_SKY130A/JNW_EX.mag |
 
