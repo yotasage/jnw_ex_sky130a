@@ -10,13 +10,11 @@ Yotasage
 
 # Why
 
-<explain why you made this module>
-This module has been made to test out the tutorial written at https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip.
+This module has been made to test out the tutorial written at [https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip](https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip).
 
 # How
 
-<explain short how you made this module>
-This module has been made by following the tutorial written at https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip.
+This module has been made by following the tutorial written at [https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip](https://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html#create-the-ip).
 
 # What
 
@@ -49,5 +47,3 @@ This module has been made by following the tutorial written at https://analogicu
 | Technology          |         | Skywater 130 nm |         |       |
 | AVDD                | 1.7    | 1.8           | 1.9    | V     |
 | Temperature         | -40     | 27            | 125     | C     |
-
-# Renamed repo
