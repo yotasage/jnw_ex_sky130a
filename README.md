@@ -49,3 +49,5 @@ This module has been made by following the tutorial written at https://analogicu
 | Technology          |         | Skywater 130 nm |         |       |
 | AVDD                | 1.7    | 1.8           | 1.9    | V     |
 | Temperature         | -40     | 27            | 125     | C     |
+
+# Renamed repo
